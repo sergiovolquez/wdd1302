@@ -1,0 +1,65 @@
+#content {
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+nav a,
+.book,
+.join,
+footer a {
+    text-decoration: none; /* Remove underlines */
+}
+
+nav a:hover,
+.book:hover,
+.join:hover,
+footer a:hover {
+    text-decoration: underline; /* Add underlines on hover */
+}
+
+nav a,
+.nav a:hover,
+.home-title,
+h4,
+.book,
+.join,
+.msg h2,
+.msg p,
+footer,
+footer a,
+footer a:hover {
+    text-align: center;
+}
+
+body {
+    background-color: #fcfbfb;
+    color: #333;
+}
+
+header {
+    background-color: rgba(20, 30, 13, 0.7);
+    /* Other styles for header */
+}
+
+.icon {
+    width: 80px;
+}
+
+.logo {
+    width: 80px;
+}
+
+#hero-img {
+    width: 100%;
+}
+
+#background {
+    height: 725px;
+    /* Add background color as needed */
+}
+
+footer p {
+    font-size: 1.2em; /* Increase font size in the footer */
+}
+
+/* Add background colors and text colors as needed for other elements */
