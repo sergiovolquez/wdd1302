@@ -1,29 +1,30 @@
 
 
+
 @import url('https://fonts.googleapis.com/css2?family=Mooli&family=Playfair+Display&display=swap');
 
 :root {
-  
-  --primary-color: #606c38   ;
-  --secondary-color: #283618 ;
+  --primary-color: #606c38;
+  --secondary-color: #283618;
   --accent1-color: #fefae0;
-  --accent2-color: dda15e;
+  --accent2-color: #dda15e;
 
- 
-  --heading-font: "playfair+Display&display";
-  --paragraph-font:"Mooli&family";
+  --heading-font: 'Playfair Display', sans-serif;
+  --paragraph-font: 'Mooli', sans-serif;
 
- 
-  --headline-color-on-white: #396E94;  
-  --headline-color-on-color: #283618; /
-  --paragraph-color-on-white: #396E94; /
-  --paragraph-color-on-color: #fefae0; /
-  --paragraph-background-color: #606c38  ;
+  --headline-color-on-white: #396E94;
+  --headline-color-on-color: #283618;
+  --paragraph-color-on-white: #396E94;
+  --paragraph-color-on-color: #fefae0;
+  --paragraph-background-color: #606c38;
   --nav-link-color: #fefae0;
   --nav-background-color: #606c38;
-  --nav-hover-link-color: 396E94;
+  --nav-hover-link-color: #396E94;
   --nav-hover-background-color: #fefae0;
 }
+
+/* Rest of your CSS styles go here */
+
 
 
 /*  Look around below...but DON'T CHANGE ANYTHING! */
